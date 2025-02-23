@@ -17,8 +17,8 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": ">= 12.2.0 < 20",
-    "@angular/core": ">= 12.2.0 < 20"
+    "@angular/common": ">= 12.2.0 < 19",
+    "@angular/core": ">= 12.2.0 < 19"
   },
   "dependencies": {
     "tslib": "^2.3.0"
